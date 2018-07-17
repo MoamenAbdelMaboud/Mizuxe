@@ -1,0 +1,76 @@
+
+body{
+    margin-top: 100px;
+
+}
+.navbar{
+    box-shadow: 2px 2px 5px #3292a6;
+    opacity: 0.9;
+    background: #fff;
+}
+.navbar .nav-item{
+    padding-right: 20px;
+    font-size: 1.4rem
+}
+/*start show*/
+.port{
+    background: url("../image/pexels-photo-302769.jpeg");
+    background-size: cover;
+    min-height: 627px;
+    position: relative;
+    
+}
+.port .primary-overlay{
+    background: rgba(50,146,166,0.8);
+    width: 100%;
+    height:100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.port .two{
+    
+    top: 150px;
+}
+/*start about*/
+#About .info-header{
+    margin: auto;
+    width: 50%;
+    border-bottom: 1px #ddd solid;  
+}
+
+/*start meet*/
+#meet .fa{
+    font-size: 25px;
+   
+    
+}
+#meet .card:hover{
+    background: rgba(50,146,166,0.8);
+    color: #fff;
+    
+} 
+#meet img{
+    margin-top: -60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
